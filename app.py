@@ -1,3 +1,8 @@
+
+import papildomas
+
+
+
 print("labas")
 
 print("viso")
