@@ -1,5 +1,5 @@
 
-import papildomas
+
 
 
 
@@ -14,3 +14,7 @@ print("Labai gerai")
 
 
 print("Ernestas")
+
+
+
+print("pakeitimas dev sakoje")
